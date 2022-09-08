@@ -1,16 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Ein-Tim
+repo: uptime-monitoring
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Corona-Warn-App webiste
+    url: https://www.coronawarn.app
+  - name: CWA Logupload
+    url: https://logupload.coronawarn.app
+  - name: CWA Main Server
+    url: https://svc90.main.px.t-online.de/
+  - name: CWA RAT portal
+    url: https://schnelltestportal.de
+  - name: CWA RAT map
+    url: https://map.schnelltestportal.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
