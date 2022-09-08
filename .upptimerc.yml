@@ -18,10 +18,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime-monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Status page for webistes & endpoints I'm interested in!"
-  introMessage: I use this status page to monitor websites & endpoints I'm interested in! This page is powered by [UPPTIME!](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/67682506?v=4
+  name: Status page
+  introTitle: "Ein-Tim's status page"
+  introMessage: I use this status page to monitor websites & endpoints I'm interested in! This page is powered by [Upptime](https://github.com/upptime/upptime)-
   navbar:
     - title: Status
       href: /
