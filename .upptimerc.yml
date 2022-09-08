@@ -3,7 +3,7 @@ owner: Ein-Tim
 repo: uptime-monitoring
 
 sites:
-  - name: Corona-Warn-App webiste
+  - name: Corona-Warn-App website
     url: https://www.coronawarn.app
 #  - name: CWA Logupload
 #    url: hhttps://logupload.coronawarn.app
