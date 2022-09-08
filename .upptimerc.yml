@@ -6,7 +6,7 @@ sites:
   - name: Corona-Warn-App webiste
     url: https://www.coronawarn.app
   - name: CWA Logupload
-    url: https://www.logupload.coronawarn.app
+    url: hhttps://logupload.coronawarn.app
   - name: CWA Main Server
     url: https://svc90.main.px.t-online.de/
   - name: CWA RAT portal
