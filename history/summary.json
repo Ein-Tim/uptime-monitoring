@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1092,
-    "timeDay": 1092,
-    "timeWeek": 1092,
-    "timeMonth": 1092,
-    "timeYear": 1092,
+    "time": 1313,
+    "timeDay": 1313,
+    "timeWeek": 1313,
+    "timeMonth": 1313,
+    "timeYear": 1313,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "CWA Logupload",
+    "url": "hhttps://logupload.coronawarn.app",
+    "icon": "https://favicons.githubusercontent.com/logupload.coronawarn.app",
+    "slug": "cwa-logupload",
+    "status": "down",
+    "uptime": "4.62%",
+    "uptimeDay": "4.62%",
+    "uptimeWeek": "4.62%",
+    "uptimeMonth": "4.62%",
+    "uptimeYear": "4.62%",
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "CWA Main Server",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 923,
-    "timeWeek": 923,
-    "timeMonth": 923,
-    "timeYear": 923,
+    "time": 930,
+    "timeDay": 930,
+    "timeWeek": 930,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 760,
-    "timeWeek": 760,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "time": 785,
+    "timeDay": 785,
+    "timeWeek": 785,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1084,
-    "timeDay": 1084,
-    "timeWeek": 1084,
-    "timeMonth": 1084,
-    "timeYear": 1084,
+    "time": 1106,
+    "timeDay": 1106,
+    "timeWeek": 1106,
+    "timeMonth": 1106,
+    "timeYear": 1106,
     "dailyMinutesDown": {}
   }
 ]
