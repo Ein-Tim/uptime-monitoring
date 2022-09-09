@@ -27,6 +27,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+      
+commitMessages:
+  commitAuthorName: "Ein-Tim [BOT]"
+  commitAuthorEmail: "67682506+Ein-Tim@users.noreply.github.com"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
