@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Tim](https://ein-tim.github.io/uptime-monitoring/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor for [Tim's status page](https://ein-tim.github.io/uptime-monitoring/).
 
 [![Uptime CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -24,5 +24,5 @@ This repository contains the open-source uptime monitor and status page for [Tim
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Tim](https://demo.upptime.js.org)
+- Code: [MIT](./LICENSE) © [Tim](https://github.com/Ein-Tim)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
