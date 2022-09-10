@@ -2,10 +2,10 @@
 
 This repository contains the open-source uptime monitor for [Tim's status page](https://ein-tim.github.io/uptime-monitoring/).
 
-[![Uptime CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Graphs%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Uptime CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Uptime+CI%22) <br> 
+[![Response Time CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Response+Time+CI%22) <br> 
+[![Graphs CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Graphs%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Graphs+CI%22) <br> 
+[![Static Site CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Static+Site+CI%22) <br> 
 [![Summary CI](https://github.com/Ein-Tim/uptime-monitoring/workflows/Summary%20CI/badge.svg)](https://github.com/Ein-Tim/uptime-monitoring/actions?query=workflow%3A%22Summary+CI%22)
 
 <!--start: status pages-->
