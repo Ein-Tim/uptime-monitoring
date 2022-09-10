@@ -35,6 +35,8 @@ commitMessages:
   
 status-website:
   favicon: https://avatars.githubusercontent.com/u/67682506?v=4
+  
+status-website:
   theme: ocean
   
 # Upptime also supports notifications, assigning issues, and more
