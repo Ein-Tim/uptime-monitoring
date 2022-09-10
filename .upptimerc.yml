@@ -34,9 +34,6 @@ commitMessages:
   commitAuthorEmail: "67682506+Ein-Tim@users.noreply.github.com"
   
 status-website:
-  favicon: https://avatars.githubusercontent.com/u/67682506?v=4
-  
-status-website:
   theme: ocean
   
 # Upptime also supports notifications, assigning issues, and more
