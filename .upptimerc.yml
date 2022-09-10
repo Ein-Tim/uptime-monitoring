@@ -6,8 +6,8 @@ sites:
   - name: Corona-Warn-App website
     url: https://www.coronawarn.app
 # this does not work, thus commented out
-  - name: CWA Logupload
-    url: https://logupload.coronawarn.app
+#  - name: CWA Logupload
+#    url: https://logupload.coronawarn.app
   - name: CWA Main Server
     url: https://svc90.main.px.t-online.de/
   - name: CWA RAT portal
