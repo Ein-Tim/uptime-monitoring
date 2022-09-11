@@ -30,7 +30,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 commitMessages:
-  commitAuthorName: "Ein-Tim [BOT]"
+  commitAuthorName: "Ein-Tim"
   commitAuthorEmail: "67682506+Ein-Tim@users.noreply.github.com"
   
 # Upptime also supports notifications, assigning issues, and more
