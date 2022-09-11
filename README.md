@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://ein-tim.github.io/uptime-monitoring/): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor for [Tim's status page](https://ein-tim.github.io/uptime-monitoring/).
 
