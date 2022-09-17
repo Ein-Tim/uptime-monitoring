@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 1306,
-    "timeWeek": 1211,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "time": 1238,
+    "timeDay": 1349,
+    "timeWeek": 1204,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 848,
-    "timeWeek": 855,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "time": 913,
+    "timeDay": 1002,
+    "timeWeek": 838,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 770,
-    "timeDay": 690,
-    "timeWeek": 767,
+    "timeDay": 716,
+    "timeWeek": 766,
     "timeMonth": 770,
     "timeYear": 770,
     "dailyMinutesDown": {}
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 1114,
-    "timeWeek": 1015,
-    "timeMonth": 1040,
-    "timeYear": 1040,
+    "time": 1043,
+    "timeDay": 1135,
+    "timeWeek": 1006,
+    "timeMonth": 1043,
+    "timeYear": 1043,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "CWA Data URL",
+    "url": "https://data.coronawarn.app",
+    "icon": "https://favicons.githubusercontent.com/data.coronawarn.app",
+    "slug": "cwa-data-url",
+    "status": "down",
+    "uptime": "22.25%",
+    "uptimeDay": "22.25%",
+    "uptimeWeek": "22.25%",
+    "uptimeMonth": "22.25%",
+    "uptimeYear": "22.25%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
+    "dailyMinutesDown": {
+      "2022-09-17": 0
+    }
   }
 ]
