@@ -14,8 +14,9 @@ sites:
     url: https://schnelltestportal.de
   - name: CWA RAT map
     url: https://map.schnelltestportal.de
-  - name: CWA Data URL
-    url: https://data.coronawarn.app
+# this does not work, thus commented out
+#  - name: CWA Data URL
+#    url: https://data.coronawarn.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
