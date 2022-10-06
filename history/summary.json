@@ -40,9 +40,9 @@
     "url": "https://schnelltestportal.de",
     "icon": "https://icons.duckduckgo.com/ip3/schnelltestportal.de.ico",
     "slug": "cwa-rat-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 773,
     "timeMonth": 796,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-06": 0
+    }
   },
   {
     "name": "CWA RAT map",
