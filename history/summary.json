@@ -4,10 +4,10 @@
     "url": "https://www.coronawarn.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.coronawarn.app.ico",
     "slug": "corona-warn-app-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1170,
@@ -15,16 +15,18 @@
     "timeWeek": 1192,
     "timeMonth": 1104,
     "timeYear": 1170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "CWA Main Server",
     "url": "https://svc90.main.px.t-online.de/",
     "icon": "https://icons.duckduckgo.com/ip3/svc90.main.px.t-online.de.ico",
     "slug": "cwa-main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 918,
     "timeMonth": 830,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "CWA RAT portal",
