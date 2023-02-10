@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1223,
-    "timeDay": 1240,
-    "timeWeek": 1183,
-    "timeMonth": 1434,
-    "timeYear": 1223,
+    "time": 1222,
+    "timeDay": 1060,
+    "timeWeek": 1160,
+    "timeMonth": 1440,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 860,
-    "timeDay": 995,
-    "timeWeek": 919,
-    "timeMonth": 879,
-    "timeYear": 860,
+    "time": 859,
+    "timeDay": 697,
+    "timeWeek": 873,
+    "timeMonth": 883,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -46,15 +46,15 @@
     "slug": "cwa-rat-portal",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "97.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.27%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.86%",
-    "time": 770,
-    "timeDay": 820,
-    "timeWeek": 803,
-    "timeMonth": 838,
-    "timeYear": 770,
+    "time": 769,
+    "timeDay": 496,
+    "timeWeek": 753,
+    "timeMonth": 835,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-02-08": 109,
       "2023-02-07": 166,
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 989,
-    "timeDay": 1099,
-    "timeWeek": 1024,
+    "time": 988,
+    "timeDay": 812,
+    "timeWeek": 985,
     "timeMonth": 999,
-    "timeYear": 989,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2023-01-25": 34
     }
