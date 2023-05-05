@@ -5,15 +5,17 @@ repo: uptime-monitoring
 sites:
   - name: Corona-Warn-App website
     url: https://www.coronawarn.app
+  - name: CWA Main Server
+    url: https://svc90.main.px.t-online.de/
 # this does not work, thus commented out
 #  - name: CWA Logupload
 #    url: https://logupload.coronawarn.app
-  - name: CWA Main Server
-    url: https://svc90.main.px.t-online.de/
-  - name: CWA RAT portal
-    url: https://schnelltestportal.de
-  - name: CWA RAT map
-    url: https://map.schnelltestportal.de
+# this site was shut down on May 5, 2023
+#  - name: CWA RAT portal
+#    url: https://schnelltestportal.de
+# this site was shut down on May 5, 2023
+#  - name: CWA RAT map
+#    url: https://map.schnelltestportal.de
 # this does not work, thus commented out
 #  - name: CWA Data URL
 #    url: https://data.coronawarn.app
