@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/svc90.main.px.t-online.de.ico",
     "slug": "cwa-main-server",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 855,
     "timeDay": 987,
     "timeWeek": 799,
@@ -46,9 +46,9 @@
     "url": "https://schnelltestportal.de",
     "icon": "https://icons.duckduckgo.com/ip3/schnelltestportal.de.ico",
     "slug": "cwa-rat-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -58,6 +58,7 @@
     "timeMonth": 709,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2023-02-08": 109,
       "2023-02-07": 166,
       "2022-10-06": 37
@@ -68,9 +69,9 @@
     "url": "https://map.schnelltestportal.de",
     "icon": "https://icons.duckduckgo.com/ip3/map.schnelltestportal.de.ico",
     "slug": "cwa-rat-map",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -80,6 +81,7 @@
     "timeMonth": 896,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2023-01-25": 34
     }
   }
