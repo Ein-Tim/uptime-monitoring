@@ -25,18 +25,19 @@
     "url": "https://svc90.main.px.t-online.de/",
     "icon": "https://icons.duckduckgo.com/ip3/svc90.main.px.t-online.de.ico",
     "slug": "cwa-main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 855,
-    "timeDay": 1002,
-    "timeWeek": 844,
+    "timeDay": 919,
+    "timeWeek": 843,
     "timeMonth": 833,
     "timeYear": 855,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-19": 25,
       "2023-01-25": 27
     }
