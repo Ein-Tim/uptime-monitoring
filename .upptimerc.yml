@@ -5,7 +5,9 @@ repo: uptime-monitoring
 sites:
   - name: Corona-Warn-App website
     url: https://www.coronawarn.app
-# this site was shut down on May 36, 2023
+  - name: KulturPass website
+    url: https://www.kulturpass.de
+# this site was shut down in May, 2023
 # - name: CWA Main Server
 #    url: https://svc90.main.px.t-online.de/
 # this does not work, thus commented out
