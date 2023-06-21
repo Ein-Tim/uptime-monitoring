@@ -1,7 +1,7 @@
 url: https://www.kulturpass.de
-status: down
-code: 500
-responseTime: 10894
-lastUpdated: 2023-06-21T07:43:13.425Z
+status: up
+code: 200
+responseTime: 11200
+lastUpdated: 2023-06-21T07:56:13.514Z
 startTime: Tue Jun 13 2023 18:55:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
