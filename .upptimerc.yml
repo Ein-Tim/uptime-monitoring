@@ -7,6 +7,8 @@ sites:
     url: https://www.coronawarn.app
   - name: KulturPass website
     url: https://www.kulturpass.de
+  - name: KulturPass storefront
+    url: https://storefront.prod.kulturpass.de
 # this site was shut down in May, 2023
 # - name: CWA Main Server
 #    url: https://svc90.main.px.t-online.de/
