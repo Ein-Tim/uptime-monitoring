@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1116,
-    "timeDay": 652,
-    "timeWeek": 607,
-    "timeMonth": 548,
-    "timeYear": 1116,
+    "time": 1114,
+    "timeDay": 529,
+    "timeWeek": 618,
+    "timeMonth": 546,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2023-03-19": 25,
       "2023-01-25": 27
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kulturpass.de.ico",
     "slug": "kultur-pass-website",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 3185,
-    "timeDay": 1232,
-    "timeWeek": 1511,
-    "timeMonth": 3185,
-    "timeYear": 3185,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 3148,
+    "timeDay": 1831,
+    "timeWeek": 1561,
+    "timeMonth": 3148,
+    "timeYear": 3148,
     "dailyMinutesDown": {
       "2023-06-22": 45
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 685,
-    "timeWeek": 733,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 808,
+    "timeDay": 1438,
+    "timeWeek": 849,
+    "timeMonth": 808,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   }
 ]
