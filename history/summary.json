@@ -47,17 +47,19 @@
     "url": "https://storefront.prod.kulturpass.de",
     "icon": "https://icons.duckduckgo.com/ip3/storefront.prod.kulturpass.de.ico",
     "slug": "kultur-pass-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 1282,
-    "timeWeek": 890,
-    "timeMonth": 786,
-    "timeYear": 751,
-    "dailyMinutesDown": {}
+    "time": 752,
+    "timeDay": 1084,
+    "timeWeek": 889,
+    "timeMonth": 789,
+    "timeYear": 752,
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   }
 ]
