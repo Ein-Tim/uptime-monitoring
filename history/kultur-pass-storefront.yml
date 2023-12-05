@@ -1,7 +1,7 @@
 url: https://storefront.prod.kulturpass.de
-status: down
-code: 503
-responseTime: 885
-lastUpdated: 2023-12-05T01:22:06.734Z
+status: up
+code: 200
+responseTime: 723
+lastUpdated: 2023-12-05T02:09:01.114Z
 startTime: 2023-06-27T18:55:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
