@@ -27,9 +27,9 @@
     "slug": "kultur-pass-website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1762,
     "timeDay": 1460,
@@ -37,7 +37,6 @@
     "timeMonth": 1603,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2024-01-14": 12,
       "2023-11-18": 19,
       "2023-11-14": 22,
       "2023-06-22": 45
