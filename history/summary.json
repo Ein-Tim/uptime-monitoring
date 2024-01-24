@@ -25,9 +25,9 @@
     "url": "https://www.kulturpass.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kulturpass.de.ico",
     "slug": "kultur-pass-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 1543,
     "timeYear": 1752,
     "dailyMinutesDown": {
+      "2024-01-24": 0,
       "2023-11-18": 19,
       "2023-11-14": 22,
       "2023-06-22": 45
