@@ -24,10 +24,10 @@
     "url": "https://www.kulturpass.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kulturpass.de.ico",
     "slug": "kultur-pass-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
     "time": 1737,
@@ -36,6 +36,7 @@
     "timeMonth": 1524,
     "timeYear": 1737,
     "dailyMinutesDown": {
+      "2024-02-12": 1,
       "2024-01-27": 66,
       "2023-11-18": 19,
       "2023-11-14": 22,
@@ -47,7 +48,7 @@
     "url": "https://storefront.prod.kulturpass.de",
     "icon": "https://icons.duckduckgo.com/ip3/storefront.prod.kulturpass.de.ico",
     "slug": "kultur-pass-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,6 +60,7 @@
     "timeMonth": 913,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2024-02-12": 0,
       "2023-12-05": 47
     }
   }
