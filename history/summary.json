@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 175,
-    "timeWeek": 576,
-    "timeMonth": 459,
-    "timeYear": 668,
-    "dailyMinutesDown": {
-      "2023-03-19": 25
-    }
+    "time": 807,
+    "timeDay": 277,
+    "timeWeek": 579,
+    "timeMonth": 456,
+    "timeYear": 665,
+    "dailyMinutesDown": {}
   },
   {
     "name": "KulturPass website",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.93%",
     "time": 1725,
-    "timeDay": 1511,
-    "timeWeek": 2304,
-    "timeMonth": 1689,
+    "timeDay": 1620,
+    "timeWeek": 2285,
+    "timeMonth": 1700,
     "timeYear": 1725,
     "dailyMinutesDown": {
       "2024-03-14": 108,
@@ -55,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
-    "time": 826,
-    "timeDay": 704,
-    "timeWeek": 914,
-    "timeMonth": 836,
-    "timeYear": 826,
+    "time": 825,
+    "timeDay": 670,
+    "timeWeek": 842,
+    "timeMonth": 838,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2024-02-26": 97,
       "2023-12-05": 47
