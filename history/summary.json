@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 249,
-    "timeWeek": 505,
-    "timeMonth": 513,
-    "timeYear": 515,
+    "time": 665,
+    "timeDay": 1102,
+    "timeWeek": 621,
+    "timeMonth": 538,
+    "timeYear": 517,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "kultur-pass-website",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 1740,
-    "timeDay": 4687,
-    "timeWeek": 3762,
-    "timeMonth": 2320,
-    "timeYear": 1742,
+    "time": 1741,
+    "timeDay": 1939,
+    "timeWeek": 3797,
+    "timeMonth": 2336,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2024-06-19": 17,
       "2024-04-15": 21,
@@ -40,8 +40,7 @@
       "2024-02-26": 22,
       "2024-01-27": 66,
       "2023-11-18": 19,
-      "2023-11-14": 22,
-      "2023-06-22": 45
+      "2023-11-14": 22
     }
   },
   {
@@ -55,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 821,
-    "timeDay": 799,
-    "timeWeek": 889,
-    "timeMonth": 857,
-    "timeYear": 821,
+    "time": 822,
+    "timeDay": 876,
+    "timeWeek": 911,
+    "timeMonth": 854,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-02-26": 97,
       "2023-12-05": 47
