@@ -4,19 +4,19 @@
     "url": "https://www.coronawarn.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.coronawarn.app.ico",
     "slug": "corona-warn-app-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 399,
-    "timeWeek": 563,
-    "timeMonth": 454,
-    "timeYear": 507,
+    "time": 606,
+    "timeDay": 309,
+    "timeWeek": 520,
+    "timeMonth": 447,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 12
     }
   },
   {
