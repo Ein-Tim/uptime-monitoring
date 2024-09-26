@@ -4,18 +4,20 @@
     "url": "https://www.coronawarn.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.coronawarn.app.ico",
     "slug": "corona-warn-app-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
+    "time": 521,
     "timeDay": 1283,
     "timeWeek": 541,
     "timeMonth": 520,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-26": 0
+    }
   },
   {
     "name": "KulturPass website",
