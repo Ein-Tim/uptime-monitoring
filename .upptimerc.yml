@@ -3,12 +3,13 @@ owner: Ein-Tim
 repo: uptime-monitoring
 
 sites:
-  - name: Corona-Warn-App website
-    url: https://www.coronawarn.app
   - name: KulturPass website
     url: https://www.kulturpass.de
   - name: KulturPass storefront
     url: https://storefront.prod.kulturpass.de
+# THis sie was shut down in January, 2025
+# - name: Corona-Warn-App website
+#    url: https://www.coronawarn.app
 # this site was shut down in May, 2023
 # - name: CWA Main Server
 #    url: https://svc90.main.px.t-online.de/
