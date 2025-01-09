@@ -1,28 +1,5 @@
 [
   {
-    "name": "Corona-Warn-App website",
-    "url": "https://www.coronawarn.app",
-    "icon": "https://icons.duckduckgo.com/ip3/www.coronawarn.app.ico",
-    "slug": "corona-warn-app-website",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "66.69%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "99.36%",
-    "time": 652,
-    "timeDay": 0,
-    "timeWeek": 513,
-    "timeMonth": 1497,
-    "timeYear": 696,
-    "dailyMinutesDown": {
-      "2025-01-09": 82,
-      "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 396
-    }
-  },
-  {
     "name": "KulturPass website",
     "url": "https://www.kulturpass.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kulturpass.de.ico",
@@ -33,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1766,
-    "timeDay": 1495,
-    "timeWeek": 1778,
-    "timeMonth": 1791,
-    "timeYear": 1823,
+    "time": 1714,
+    "timeDay": 1572,
+    "timeWeek": 1762,
+    "timeMonth": 1787,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2024-11-08": 97,
       "2024-10-31": 30,
@@ -63,9 +40,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 848,
-    "timeDay": 591,
-    "timeWeek": 782,
-    "timeMonth": 806,
+    "timeDay": 733,
+    "timeWeek": 794,
+    "timeMonth": 808,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2024-12-16": 29,
