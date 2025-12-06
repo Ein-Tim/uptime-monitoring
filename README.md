@@ -22,5 +22,5 @@ This repository contains the open-source uptime monitor for [Tim's status page](
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Tim](https://github.com/Ein-Tim)
+- Code: [MIT](./LICENSE)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
