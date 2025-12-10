@@ -4,19 +4,19 @@
     "url": "https://andreaseinbeck.de",
     "icon": "https://icons.duckduckgo.com/ip3/andreaseinbeck.de.ico",
     "slug": "andreas-einbeck",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1167,
-    "timeDay": 1214,
-    "timeWeek": 1167,
-    "timeMonth": 1167,
-    "timeYear": 1167,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1195,
+    "timeDay": 1289,
+    "timeWeek": 1195,
+    "timeMonth": 1195,
+    "timeYear": 1195,
     "dailyMinutesDown": {
-      "2025-12-10": 0
+      "2025-12-10": 9
     }
   },
   {
