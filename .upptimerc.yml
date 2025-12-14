@@ -7,6 +7,10 @@ sites:
     url: https://andreaseinbeck.de
   - name: Holger Brüssel
     url: https://holgerbruessel.com
+  - name: Travelynx
+    url: https://travelynx.de
+  - name: BahnExpert
+    url: https://bahn.expert 
 
 # these sites were monitored earlier, but they all shut down:
 #  - name: KulturPass website
