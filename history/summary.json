@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1108,
     "timeDay": 1435,
-    "timeWeek": 1059,
+    "timeWeek": 1071,
     "timeMonth": 1108,
     "timeYear": 1108,
     "dailyMinutesDown": {}
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/travelynx.de.ico",
     "slug": "travelynx",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 751,
     "timeDay": 852,
     "timeWeek": 751,
@@ -60,7 +60,7 @@
     "url": "https://bahn.expert",
     "icon": "https://icons.duckduckgo.com/ip3/bahn.expert.ico",
     "slug": "bahn-expert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 993,
     "timeMonth": 993,
     "timeYear": 993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-18": 0
+    }
   }
 ]
