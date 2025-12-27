@@ -22,7 +22,7 @@
     "url": "https://holgerbruessel.com",
     "icon": "https://icons.duckduckgo.com/ip3/holgerbruessel.com.ico",
     "slug": "holger-bruessel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,10 +30,12 @@
     "uptimeYear": "100.00%",
     "time": 1836,
     "timeDay": 1198,
-    "timeWeek": 1612,
+    "timeWeek": 1365,
     "timeMonth": 1836,
     "timeYear": 1836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-27": 0
+    }
   },
   {
     "name": "Travelynx",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/travelynx.de.ico",
     "slug": "travelynx",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 833,
     "timeDay": 721,
     "timeWeek": 873,
