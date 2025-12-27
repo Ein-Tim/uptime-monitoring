@@ -22,19 +22,19 @@
     "url": "https://holgerbruessel.com",
     "icon": "https://icons.duckduckgo.com/ip3/holgerbruessel.com.ico",
     "slug": "holger-bruessel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1836,
-    "timeDay": 1198,
-    "timeWeek": 1365,
-    "timeMonth": 1836,
-    "timeYear": 1836,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1816,
+    "timeDay": 1261,
+    "timeWeek": 1360,
+    "timeMonth": 1816,
+    "timeYear": 1816,
     "dailyMinutesDown": {
-      "2025-12-27": 0
+      "2025-12-27": 13
     }
   },
   {
