@@ -13,7 +13,7 @@
     "time": 1089,
     "timeDay": 852,
     "timeWeek": 1033,
-    "timeMonth": 1071,
+    "timeMonth": 1074,
     "timeYear": 1089,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://holgerbruessel.com",
     "icon": "https://icons.duckduckgo.com/ip3/holgerbruessel.com.ico",
     "slug": "holger-bruessel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1689,
     "timeDay": 1201,
-    "timeWeek": 1649,
+    "timeWeek": 1619,
     "timeMonth": 1743,
     "timeYear": 1689,
     "dailyMinutesDown": {
+      "2026-01-11": 0,
       "2026-01-04": 19
     }
   },
