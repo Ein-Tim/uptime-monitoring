@@ -13,7 +13,7 @@
     "time": 1091,
     "timeDay": 1283,
     "timeWeek": 1112,
-    "timeMonth": 1061,
+    "timeMonth": 1069,
     "timeYear": 1091,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://holgerbruessel.com",
     "icon": "https://icons.duckduckgo.com/ip3/holgerbruessel.com.ico",
     "slug": "holger-bruessel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1687,
     "timeDay": 1363,
     "timeWeek": 1556,
-    "timeMonth": 1749,
+    "timeMonth": 1775,
     "timeYear": 1687,
     "dailyMinutesDown": {
+      "2026-01-14": 0,
       "2026-01-04": 19
     }
   },
@@ -46,12 +47,12 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 834,
     "timeDay": 1096,
     "timeWeek": 896,
-    "timeMonth": 834,
+    "timeMonth": 839,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2025-12-14": 31
@@ -71,7 +72,7 @@
     "time": 1133,
     "timeDay": 1552,
     "timeWeek": 1179,
-    "timeMonth": 1133,
+    "timeMonth": 1143,
     "timeYear": 1133,
     "dailyMinutesDown": {}
   }
